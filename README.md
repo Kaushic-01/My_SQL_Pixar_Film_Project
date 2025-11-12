@@ -1,4 +1,4 @@
-# 🎬 Pixar Film Analysis – MySQL Project
+#  Pixar Film Analysis – MySQL Project
 
 ## Project Overview
 
@@ -9,7 +9,7 @@ It serves as an excellent resource for anyone learning **SQL data analysis**, **
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze **box office performance** across all Pixar films.
 * Compare **Rotten Tomatoes**, **Metacritic**, and **Audience Scores** to assess film reception.
@@ -19,7 +19,7 @@ It serves as an excellent resource for anyone learning **SQL data analysis**, **
 
 ---
 
-## 🗂️ Database & Tables
+##  Database & Tables
 
 **Database Name:** `Pixar_Db`
 
@@ -34,33 +34,33 @@ Key tables used in the project:
 
 ---
 
-## 📊 Analysis Summary
+##  Analysis Summary
 
-### 🎟️ Box Office Performance
+###  Box Office Performance
 
 * Identify **highest-grossing films** and calculate **average worldwide gross by genre**.
 * Measure **profitability** using `(worldwide gross – budget)`.
 * Rank films by worldwide gross using **window functions (RANK())**.
 
-### 🌟 Critical & Audience Reception
+###  Critical & Audience Reception
 
 * Compare **Rotten Tomatoes** and **Metacritic** scores.
 * Find films with **scores above 90%** on both critic and audience scales.
 * Identify **directors with the highest average audience score**.
 
-### 👨‍💼 Film & People Data
+###  Film & People Data
 
 * List **directors and their films**, and count those who directed multiple projects.
 * Find the **most credited people** per film.
 * Analyze total revenue generated per director.
 
-### 🏆 Award Recognition
+###  Award Recognition
 
 * Count **Academy Award wins and nominations** for each film.
 * Identify **films with multiple wins or nominations but no wins**.
 * Calculate **average scores for award-winning films**.
 
-### 🎭 Genre & Film Attributes
+###  Genre & Film Attributes
 
 * Explore **unique genres and sub-genres**.
 * Determine **average runtime by film rating**.
@@ -68,7 +68,7 @@ Key tables used in the project:
 
 ---
 
-## 🧠 Advanced SQL Techniques
+##  Advanced SQL Techniques
 
 This project uses a variety of **advanced SQL concepts**:
 
@@ -80,7 +80,7 @@ This project uses a variety of **advanced SQL concepts**:
 
 ---
 
-## 💻 Tools & Technologies
+##  Tools & Technologies
 
 * **MySQL Workbench / XAMPP / phpMyAdmin** – Database environment
 * **SQL** – Query language for analysis and transformations
@@ -88,7 +88,7 @@ This project uses a variety of **advanced SQL concepts**:
 
 ---
 
-## 📈 Sample Query Insights
+##  Sample Query Insights
 
 | Query Topic               | Example SQL Functionality                                     |
 | ------------------------- | ------------------------------------------------------------- |
@@ -100,7 +100,7 @@ This project uses a variety of **advanced SQL concepts**:
 
 ---
 
-## 📘 How to Use
+##  How to Use
 
 1. **Clone this repository** to your system.
 2. Open MySQL Workbench or any SQL IDE.
@@ -114,7 +114,7 @@ This project uses a variety of **advanced SQL concepts**:
 
 ---
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, you’ll learn to:
 
@@ -125,7 +125,7 @@ Through this project, you’ll learn to:
 
 ---
 
-## 🚀 Next Steps / Future Enhancements
+##  Next Steps / Future Enhancements
 
 Potential areas to extend this project:
 
@@ -145,18 +145,18 @@ Potential areas to extend this project:
 ## 👤 Author
 
 **Kaushic Krishnamurthy G**
-📧 [kaushickrishnamurthy@gmail.com](mailto:kaushickrishnamurthy@gmail.com)
-💼 Data Analyst | SQL Developer | Business Intelligence Enthusiast
+ [kaushickrishnamurthy@gmail.com](mailto:kaushickrishnamurthy@gmail.com)
+ Data Analyst | SQL Developer | Business Intelligence Enthusiast
 
 ---
 
-## 🪪 License
+##  License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 * Pixar film data adapted for educational and analytical purposes.
 * Inspired by movie analytics and SQL learning initiatives.
